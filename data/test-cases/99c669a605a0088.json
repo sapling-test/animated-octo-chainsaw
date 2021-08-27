@@ -1,0 +1,46 @@
+{
+  "uid" : "99c669a605a0088",
+  "name" : "Verifying the functionality of workflows",
+  "fullName" : "Workflows.Verifying the functionality of workflows",
+  "historyId" : "b093213be4f86801e0b82cf72f241c3c",
+  "time" : {
+    "start" : 1630087455995,
+    "stop" : 1630087686782,
+    "duration" : 230787
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Workflows"
+  }, {
+    "name" : "testClass",
+    "value" : "Workflows"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying the functionality of workflows"
+  }, {
+    "name" : "package",
+    "value" : "Workflows"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99c669a605a0088.json",
+  "parameterValues" : [ ]
+}

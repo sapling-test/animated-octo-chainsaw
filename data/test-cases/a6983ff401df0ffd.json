@@ -1,0 +1,87 @@
+{
+  "uid" : "a6983ff401df0ffd",
+  "name" : "Verifying the masked fields",
+  "fullName" : "Validating masked field validations.Verifying the masked fields",
+  "historyId" : "2fb4d716a2aedb5429374d9bb5f603dc",
+  "time" : {
+    "start" : 1630077169911,
+    "stop" : 1630078164301,
+    "duration" : 994390
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Validating masked field validations"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating masked field validations"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying the masked fields"
+  }, {
+    "name" : "package",
+    "value" : "Validating masked field validations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "854621aee6e0dd9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630073827059,
+        "stop" : 1630074920332,
+        "duration" : 1093273
+      }
+    }, {
+      "uid" : "a63147218597efae",
+      "status" : "failed",
+      "statusDetails" : "Timed out retrying after 60000ms: Expected to find element: `a[aria-label='Profile Setup']`, but never found it.",
+      "time" : {
+        "start" : 1630073293521,
+        "stop" : 1630073753677,
+        "duration" : 460156
+      }
+    }, {
+      "uid" : "ffdb1522efdf1843",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630067391146,
+        "stop" : 1630068350078,
+        "duration" : 958932
+      }
+    }, {
+      "uid" : "b68fd52888a1b935",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630061332562,
+        "stop" : 1630062340222,
+        "duration" : 1007660
+      }
+    }, {
+      "uid" : "92d754dc60a300e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629998267758,
+        "stop" : 1629999215346,
+        "duration" : 947588
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a6983ff401df0ffd.json",
+  "parameterValues" : [ ]
+}

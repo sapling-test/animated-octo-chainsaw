@@ -1,0 +1,46 @@
+{
+  "uid" : "b6fd4fdb046843e9",
+  "name" : "calendar",
+  "fullName" : "Verify Calendar functionality on tools page.calendar",
+  "historyId" : "e9dda91ff8647803f3a34412718a491",
+  "time" : {
+    "start" : 1630087800818,
+    "stop" : 1630087959641,
+    "duration" : 158823
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Verify Calendar functionality on tools page"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Calendar functionality on tools page"
+  }, {
+    "name" : "testMethod",
+    "value" : "calendar"
+  }, {
+    "name" : "package",
+    "value" : "Verify Calendar functionality on tools page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6fd4fdb046843e9.json",
+  "parameterValues" : [ ]
+}

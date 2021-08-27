@@ -1,0 +1,44 @@
+{
+  "uid" : "771e780d0cd0dc97",
+  "name" : "Verify functionality of reports module",
+  "fullName" : "validating Reports module.Verify functionality of reports module",
+  "historyId" : "84740d9e2193beceb9b39015a7bba3b4",
+  "time" : {
+    "start" : 1630070995573,
+    "stop" : 1630072152812,
+    "duration" : 1157239
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "validating Reports module"
+  }, {
+    "name" : "testClass",
+    "value" : "validating Reports module"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify functionality of reports module"
+  }, {
+    "name" : "package",
+    "value" : "validating Reports module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "771e780d0cd0dc97.json",
+  "parameterValues" : [ ]
+}

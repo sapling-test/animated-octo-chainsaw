@@ -1,0 +1,44 @@
+{
+  "uid" : "ebaee5072d22fbeb",
+  "name" : " verify dashboard functionality",
+  "fullName" : "DashBoard. verify dashboard functionality",
+  "historyId" : "58fa79626e7e5384d065fb742b136a46",
+  "time" : {
+    "start" : 1630068429570,
+    "stop" : 1630070728274,
+    "duration" : 2298704
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "DashBoard"
+  }, {
+    "name" : "testClass",
+    "value" : "DashBoard"
+  }, {
+    "name" : "testMethod",
+    "value" : " verify dashboard functionality"
+  }, {
+    "name" : "package",
+    "value" : "DashBoard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ebaee5072d22fbeb.json",
+  "parameterValues" : [ ]
+}

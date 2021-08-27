@@ -1,0 +1,46 @@
+{
+  "uid" : "9489d186318f17fd",
+  "name" : "verify people page functionality for Nick persona",
+  "fullName" : "People page.verify people page functionality for Nick persona",
+  "historyId" : "35b8d0bfe94d0d07b76a03935041cfa0",
+  "time" : {
+    "start" : 1630088075370,
+    "stop" : 1630088155396,
+    "duration" : 80026
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "People page"
+  }, {
+    "name" : "testClass",
+    "value" : "People page"
+  }, {
+    "name" : "testMethod",
+    "value" : "verify people page functionality for Nick persona"
+  }, {
+    "name" : "package",
+    "value" : "People page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9489d186318f17fd.json",
+  "parameterValues" : [ ]
+}

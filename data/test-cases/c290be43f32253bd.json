@@ -1,0 +1,46 @@
+{
+  "uid" : "c290be43f32253bd",
+  "name" : "Verify functionalities of time off tab",
+  "fullName" : "TimeOff tab.Verify functionalities of time off tab",
+  "historyId" : "371caa594c2efe024aaac827bd13adc3",
+  "time" : {
+    "start" : 1630088210918,
+    "stop" : 1630088273813,
+    "duration" : 62895
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "TimeOff tab"
+  }, {
+    "name" : "testClass",
+    "value" : "TimeOff tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify functionalities of time off tab"
+  }, {
+    "name" : "package",
+    "value" : "TimeOff tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c290be43f32253bd.json",
+  "parameterValues" : [ ]
+}

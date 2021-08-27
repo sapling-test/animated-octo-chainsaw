@@ -1,0 +1,46 @@
+{
+  "uid" : "f30622385998a13d",
+  "name" : "should post the data without any issues",
+  "fullName" : "post data to 15five server.should post the data without any issues",
+  "historyId" : "f1c764cc7ef5d834e786f3b1ce3ddb38",
+  "time" : {
+    "start" : 1630088580959,
+    "stop" : 1630088587040,
+    "duration" : 6081
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "post data to 15five server"
+  }, {
+    "name" : "testClass",
+    "value" : "post data to 15five server"
+  }, {
+    "name" : "testMethod",
+    "value" : "should post the data without any issues"
+  }, {
+    "name" : "package",
+    "value" : "post data to 15five server"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f30622385998a13d.json",
+  "parameterValues" : [ ]
+}

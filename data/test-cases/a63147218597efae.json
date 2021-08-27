@@ -1,0 +1,46 @@
+{
+  "uid" : "a63147218597efae",
+  "name" : "Verifying the masked fields",
+  "fullName" : "Validating masked field validations.Verifying the masked fields",
+  "historyId" : "2fb4d716a2aedb5429374d9bb5f603dc",
+  "time" : {
+    "start" : 1630073293521,
+    "stop" : 1630073753677,
+    "duration" : 460156
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Timed out retrying after 60000ms: Expected to find element: `a[aria-label='Profile Setup']`, but never found it.",
+  "statusTrace" : "AssertionError: Timed out retrying after 60000ms: Expected to find element: `a[aria-label='Profile Setup']`, but never found it.\n                    at navaigatingToPofileSetupPage (https://quality.saplingapp.io/__cypress/tests?p=cypress\\integration\\a10maskValidation.js:2340:6)\n                    at Context.eval (https://quality.saplingapp.io/__cypress/tests?p=cypress\\integration\\a10maskValidation.js:802:68)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Validating masked field validations"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating masked field validations"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying the masked fields"
+  }, {
+    "name" : "package",
+    "value" : "Validating masked field validations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a63147218597efae.json",
+  "parameterValues" : [ ]
+}

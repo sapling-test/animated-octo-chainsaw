@@ -1,0 +1,46 @@
+{
+  "uid" : "2b90297b599d2120",
+  "name" : "should validate tasks",
+  "fullName" : "verify tasks module.should validate tasks",
+  "historyId" : "1226ac4a13084389b21058278fb8eb84",
+  "time" : {
+    "start" : 1630085096234,
+    "stop" : 1630085587976,
+    "duration" : 491742
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "verify tasks module"
+  }, {
+    "name" : "testClass",
+    "value" : "verify tasks module"
+  }, {
+    "name" : "testMethod",
+    "value" : "should validate tasks"
+  }, {
+    "name" : "package",
+    "value" : "verify tasks module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b90297b599d2120.json",
+  "parameterValues" : [ ]
+}

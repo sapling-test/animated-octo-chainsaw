@@ -1,0 +1,46 @@
+{
+  "uid" : "215f4fa313f889e5",
+  "name" : "should complete off boarding user user",
+  "fullName" : "verify off  boarding  a user.should complete off boarding user user",
+  "historyId" : "287b6ef38d7a416d409d8c5d83062ec9",
+  "time" : {
+    "start" : 1630083384779,
+    "stop" : 1630083684972,
+    "duration" : 300193
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "verify off  boarding  a user"
+  }, {
+    "name" : "testClass",
+    "value" : "verify off  boarding  a user"
+  }, {
+    "name" : "testMethod",
+    "value" : "should complete off boarding user user"
+  }, {
+    "name" : "package",
+    "value" : "verify off  boarding  a user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "215f4fa313f889e5.json",
+  "parameterValues" : [ ]
+}

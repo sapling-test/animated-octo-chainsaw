@@ -1,0 +1,70 @@
+{
+  "uid" : "1acfcddd8c8726b3",
+  "name" : " verify dashboard functionality",
+  "fullName" : "DashBoard. verify dashboard functionality",
+  "historyId" : "58fa79626e7e5384d065fb742b136a46",
+  "time" : {
+    "start" : 1630078244588,
+    "stop" : 1630080305162,
+    "duration" : 2060574
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "DashBoard"
+  }, {
+    "name" : "testClass",
+    "value" : "DashBoard"
+  }, {
+    "name" : "testMethod",
+    "value" : " verify dashboard functionality"
+  }, {
+    "name" : "package",
+    "value" : "DashBoard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ebaee5072d22fbeb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630068429570,
+        "stop" : 1630070728274,
+        "duration" : 2298704
+      }
+    }, {
+      "uid" : "28e231d2120aa1ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630062434610,
+        "stop" : 1630064458324,
+        "duration" : 2023714
+      }
+    }, {
+      "uid" : "7ca65f93a439553e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629999299433,
+        "stop" : 1630001348790,
+        "duration" : 2049357
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1acfcddd8c8726b3.json",
+  "parameterValues" : [ ]
+}

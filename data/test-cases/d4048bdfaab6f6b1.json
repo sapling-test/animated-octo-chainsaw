@@ -1,0 +1,46 @@
+{
+  "uid" : "d4048bdfaab6f6b1",
+  "name" : "Verifying profile image functions",
+  "fullName" : "Profile Image.Verifying profile image functions",
+  "historyId" : "f7e7a837b2c610085a47fe4e1b1bc22e",
+  "time" : {
+    "start" : 1630088482740,
+    "stop" : 1630088570612,
+    "duration" : 87872
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Profile Image"
+  }, {
+    "name" : "testClass",
+    "value" : "Profile Image"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying profile image functions"
+  }, {
+    "name" : "package",
+    "value" : "Profile Image"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d4048bdfaab6f6b1.json",
+  "parameterValues" : [ ]
+}

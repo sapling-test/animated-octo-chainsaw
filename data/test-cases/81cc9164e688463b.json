@@ -1,0 +1,46 @@
+{
+  "uid" : "81cc9164e688463b",
+  "name" : "Creating new employee role and adding a member to created role",
+  "fullName" : "Permissions.Creating new employee role and adding a member to created role",
+  "historyId" : "80515787c7eb62b1dba9fa669fbe0302",
+  "time" : {
+    "start" : 1630087710023,
+    "stop" : 1630087710062,
+    "duration" : 39
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Permissions"
+  }, {
+    "name" : "testClass",
+    "value" : "Permissions"
+  }, {
+    "name" : "testMethod",
+    "value" : "Creating new employee role and adding a member to created role"
+  }, {
+    "name" : "package",
+    "value" : "Permissions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "81cc9164e688463b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "7c42347657d809b1",
+  "name" : "Should update the user in 15five server",
+  "fullName" : "post data to 15five server.Should update the user in 15five server",
+  "historyId" : "a4a47ddb2a5bfa005fa14cd7e99cdd03",
+  "time" : {
+    "start" : 1630088587565,
+    "stop" : 1630088588330,
+    "duration" : 765
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "post data to 15five server"
+  }, {
+    "name" : "testClass",
+    "value" : "post data to 15five server"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should update the user in 15five server"
+  }, {
+    "name" : "package",
+    "value" : "post data to 15five server"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c42347657d809b1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,52 @@
+{
+  "uid" : "4c99f4e5f04e47b6",
+  "name" : "toolbardocuments",
+  "fullName" : "Verify Documents functionality on tools page.toolbardocuments",
+  "historyId" : "129995eb81ffe92873214b4af872c2d1",
+  "time" : {
+    "start" : 1630085632996,
+    "stop" : 1630087327001,
+    "duration" : 1694005
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Timed out retrying after 60000ms: Expected to find element: `.documents-actions button .icon-eye`, but never found it.",
+  "statusTrace" : "AssertionError: Timed out retrying after 60000ms: Expected to find element: `.documents-actions button .icon-eye`, but never found it.\n                    at viewTheDocument (https://quality.saplingapp.io/__cypress/tests?p=cypress\\integration\\a7toolBarDocuments.js:1840:6)\n                    at Context.eval (https://quality.saplingapp.io/__cypress/tests?p=cypress\\integration\\a7toolBarDocuments.js:2158:52)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Verify Documents functionality on tools page"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Documents functionality on tools page"
+  }, {
+    "name" : "testMethod",
+    "value" : "toolbardocuments"
+  }, {
+    "name" : "package",
+    "value" : "Verify Documents functionality on tools page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "4c99f4e5f04e47b6.json",
+  "parameterValues" : [ ]
+}

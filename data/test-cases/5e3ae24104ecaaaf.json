@@ -1,0 +1,46 @@
+{
+  "uid" : "5e3ae24104ecaaaf",
+  "name" : "Updates",
+  "fullName" : "Verify Updates functionality on tools page.Updates",
+  "historyId" : "f3525d213633237acd5adb18d952a14d",
+  "time" : {
+    "start" : 1630088281797,
+    "stop" : 1630088463364,
+    "duration" : 181567
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Verify Updates functionality on tools page"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify Updates functionality on tools page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Updates"
+  }, {
+    "name" : "package",
+    "value" : "Verify Updates functionality on tools page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5e3ae24104ecaaaf.json",
+  "parameterValues" : [ ]
+}

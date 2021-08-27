@@ -1,0 +1,46 @@
+{
+  "uid" : "c304e328de98e129",
+  "name" : "Validating people page functionalities",
+  "fullName" : "People page Functions.Validating people page functionalities",
+  "historyId" : "42d1ad8af1536cb2aa8e8790755578d6",
+  "time" : {
+    "start" : 1630065878006,
+    "stop" : 1630066627325,
+    "duration" : 749319
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Timed out retrying after 60000ms: Expected to find element: `.md-menu-toolbar`, but never found it.",
+  "statusTrace" : "AssertionError: Timed out retrying after 60000ms: Expected to find element: `.md-menu-toolbar`, but never found it.\n                    at validatingPeoplePageFunc (https://quality.saplingapp.io/__cypress/tests?p=cypress\\integration\\a13peoplePage.js:773:6)\n                    at Context.eval (https://quality.saplingapp.io/__cypress/tests?p=cypress\\integration\\a13peoplePage.js:614:52)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "People page Functions"
+  }, {
+    "name" : "testClass",
+    "value" : "People page Functions"
+  }, {
+    "name" : "testMethod",
+    "value" : "Validating people page functionalities"
+  }, {
+    "name" : "package",
+    "value" : "People page Functions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c304e328de98e129.json",
+  "parameterValues" : [ ]
+}

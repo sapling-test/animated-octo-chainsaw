@@ -1,0 +1,435 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Validating masked field validations",
+    "children" : [ {
+      "name" : "Verifying the masked fields",
+      "uid" : "a6983ff401df0ffd",
+      "parentUid" : "d20ada5311867d416e57efce8e294429",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630077169911,
+        "stop" : 1630078164301,
+        "duration" : 994390
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d20ada5311867d416e57efce8e294429"
+  }, {
+    "name" : "DashBoard",
+    "children" : [ {
+      "name" : " verify dashboard functionality",
+      "uid" : "1acfcddd8c8726b3",
+      "parentUid" : "a3a0f2e3c7be8638ba7117515f554def",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630078244588,
+        "stop" : 1630080305162,
+        "duration" : 2060574
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a3a0f2e3c7be8638ba7117515f554def"
+  }, {
+    "name" : "validating Reports module",
+    "children" : [ {
+      "name" : "Verify functionality of reports module",
+      "uid" : "df81b082d33934af",
+      "parentUid" : "7022c4f33a8f89facc3ea2271398cb10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630080476866,
+        "stop" : 1630081639409,
+        "duration" : 1162543
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7022c4f33a8f89facc3ea2271398cb10"
+  }, {
+    "name" : "People page Functions",
+    "children" : [ {
+      "name" : "Validating people page functionalities",
+      "uid" : "e0ab537462602b8d",
+      "parentUid" : "a754eeaa356dd579f95256fe2be37ff8",
+      "status" : "failed",
+      "time" : {
+        "start" : 1630081752413,
+        "stop" : 1630082506621,
+        "duration" : 754208
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a754eeaa356dd579f95256fe2be37ff8"
+  }, {
+    "name" : "pending Hires ",
+    "children" : [ {
+      "name" : "Verifying pending Hires functionality",
+      "uid" : "a623a5c971ccb124",
+      "parentUid" : "491a07a1145010d4db229b8bf9a2aeb5",
+      "status" : "failed",
+      "time" : {
+        "start" : 1630082574040,
+        "stop" : 1630082748326,
+        "duration" : 174286
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "491a07a1145010d4db229b8bf9a2aeb5"
+  }, {
+    "name" : "verify onboarding a user",
+    "children" : [ {
+      "name" : "access home page",
+      "uid" : "d8b2ce150d1f8374",
+      "parentUid" : "63e3e67dfb5acf7248035e62e90f1e6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630082763297,
+        "stop" : 1630083334002,
+        "duration" : 570705
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "63e3e67dfb5acf7248035e62e90f1e6d"
+  }, {
+    "name" : "verify off  boarding  a user",
+    "children" : [ {
+      "name" : "should complete off boarding user user",
+      "uid" : "215f4fa313f889e5",
+      "parentUid" : "cccd46e3d683cf2e4d86d4ca747aaed9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630083384779,
+        "stop" : 1630083684972,
+        "duration" : 300193
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "cccd46e3d683cf2e4d86d4ca747aaed9"
+  }, {
+    "name" : "verify Email module",
+    "children" : [ {
+      "name" : "should verify and validate email templates",
+      "uid" : "be1a0a8cefa8bb0c",
+      "parentUid" : "3677306f256f8382b16807c3734063d6",
+      "status" : "failed",
+      "time" : {
+        "start" : 1630083714376,
+        "stop" : 1630084477573,
+        "duration" : 763197
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3677306f256f8382b16807c3734063d6"
+  }, {
+    "name" : "profileSetup",
+    "children" : [ {
+      "name" : "verifying the functionalities of profile setup page",
+      "uid" : "b761d31ad42892ff",
+      "parentUid" : "ae6c179cec537d71954318bcb9355ecd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630084546989,
+        "stop" : 1630085047591,
+        "duration" : 500602
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ae6c179cec537d71954318bcb9355ecd"
+  }, {
+    "name" : "verify tasks module",
+    "children" : [ {
+      "name" : "should validate tasks",
+      "uid" : "2b90297b599d2120",
+      "parentUid" : "973d595b94c10163d8f661ec72a23037",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630085096234,
+        "stop" : 1630085587976,
+        "duration" : 491742
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "973d595b94c10163d8f661ec72a23037"
+  }, {
+    "name" : "Verify Documents functionality on tools page",
+    "children" : [ {
+      "name" : "toolbardocuments",
+      "uid" : "4c99f4e5f04e47b6",
+      "parentUid" : "5c642591f643adaaf2978cf4a1e79415",
+      "status" : "failed",
+      "time" : {
+        "start" : 1630085632996,
+        "stop" : 1630087327001,
+        "duration" : 1694005
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "5c642591f643adaaf2978cf4a1e79415"
+  }, {
+    "name" : "Workflows",
+    "children" : [ {
+      "name" : "Verifying the functionality of workflows",
+      "uid" : "99c669a605a0088",
+      "parentUid" : "47e15ebd3137880147f92d65441e7d54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630087455995,
+        "stop" : 1630087686782,
+        "duration" : 230787
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "47e15ebd3137880147f92d65441e7d54"
+  }, {
+    "name" : "Permissions",
+    "children" : [ {
+      "name" : "Creating new employee role and adding a member to created role",
+      "uid" : "81cc9164e688463b",
+      "parentUid" : "607cced628a9e1bf75b80270f025e15b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630087710023,
+        "stop" : 1630087710062,
+        "duration" : 39
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "607cced628a9e1bf75b80270f025e15b"
+  }, {
+    "name" : "Algolia Search",
+    "children" : [ {
+      "name" : "Verifying algolia search functionality",
+      "uid" : "96fd03784c98acdd",
+      "parentUid" : "965a5db2f9cffd78d87e8198431273ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630087713624,
+        "stop" : 1630087790016,
+        "duration" : 76392
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "965a5db2f9cffd78d87e8198431273ea"
+  }, {
+    "name" : "Verify Calendar functionality on tools page",
+    "children" : [ {
+      "name" : "calendar",
+      "uid" : "b6fd4fdb046843e9",
+      "parentUid" : "a57ee9f15b50cc0ee61dc673619b5dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630087800818,
+        "stop" : 1630087959641,
+        "duration" : 158823
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a57ee9f15b50cc0ee61dc673619b5dd4"
+  }, {
+    "name" : "Verify jobdetails functionality on tools page",
+    "children" : [ {
+      "name" : "jobdetails",
+      "uid" : "607386c6132a171b",
+      "parentUid" : "c85e642f927b96a62d11cc2a0c7b3e85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630087976404,
+        "stop" : 1630088063608,
+        "duration" : 87204
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c85e642f927b96a62d11cc2a0c7b3e85"
+  }, {
+    "name" : "People page",
+    "children" : [ {
+      "name" : "verify people page functionality for Nick persona",
+      "uid" : "9489d186318f17fd",
+      "parentUid" : "bc25eff6ae17a5384630af91e4c42384",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630088075370,
+        "stop" : 1630088155396,
+        "duration" : 80026
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "bc25eff6ae17a5384630af91e4c42384"
+  }, {
+    "name" : "Performance Tab",
+    "children" : [ {
+      "name" : "verify performance tab",
+      "uid" : "f7337b73bd4e3cd8",
+      "parentUid" : "71e6565c3bc7bbf81590acb3d2a62ef5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630088163999,
+        "stop" : 1630088200164,
+        "duration" : 36165
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "71e6565c3bc7bbf81590acb3d2a62ef5"
+  }, {
+    "name" : "Profile tab",
+    "children" : [ {
+      "name" : "profile tab functionality",
+      "uid" : "379bba3e77c23ba4",
+      "parentUid" : "ddcfe8bfb8b9965d028fcc3281e9fc31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630088207165,
+        "stop" : 1630088207205,
+        "duration" : 40
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ddcfe8bfb8b9965d028fcc3281e9fc31"
+  }, {
+    "name" : "TimeOff tab",
+    "children" : [ {
+      "name" : "Verify functionalities of time off tab",
+      "uid" : "c290be43f32253bd",
+      "parentUid" : "da875645f4f8a77fbb832317ff3d622c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630088210918,
+        "stop" : 1630088273813,
+        "duration" : 62895
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "da875645f4f8a77fbb832317ff3d622c"
+  }, {
+    "name" : "Verify Updates functionality on tools page",
+    "children" : [ {
+      "name" : "Updates",
+      "uid" : "5e3ae24104ecaaaf",
+      "parentUid" : "7be68f16cfdc6097f2efa70230637481",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630088281797,
+        "stop" : 1630088463364,
+        "duration" : 181567
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7be68f16cfdc6097f2efa70230637481"
+  }, {
+    "name" : "Profile Image",
+    "children" : [ {
+      "name" : "Verifying profile image functions",
+      "uid" : "d4048bdfaab6f6b1",
+      "parentUid" : "be00289370343f5801787be20afab6ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630088482740,
+        "stop" : 1630088570612,
+        "duration" : 87872
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "be00289370343f5801787be20afab6ef"
+  }, {
+    "name" : "post data to 15five server",
+    "children" : [ {
+      "name" : "should post the data without any issues",
+      "uid" : "f30622385998a13d",
+      "parentUid" : "a2714299ca9cc03328dea1330a09eea0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630088580959,
+        "stop" : 1630088587040,
+        "duration" : 6081
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should get the user details using ID",
+      "uid" : "f404a7883f5d9557",
+      "parentUid" : "a2714299ca9cc03328dea1330a09eea0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630088587048,
+        "stop" : 1630088587554,
+        "duration" : 506
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Should update the user in 15five server",
+      "uid" : "7c42347657d809b1",
+      "parentUid" : "a2714299ca9cc03328dea1330a09eea0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630088587565,
+        "stop" : 1630088588330,
+        "duration" : 765
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should delete the record from 15five",
+      "uid" : "fba454427d205bb6",
+      "parentUid" : "a2714299ca9cc03328dea1330a09eea0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630088588333,
+        "stop" : 1630088589047,
+        "duration" : 714
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a2714299ca9cc03328dea1330a09eea0"
+  } ]
+}

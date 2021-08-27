@@ -1,0 +1,46 @@
+{
+  "uid" : "fba454427d205bb6",
+  "name" : "should delete the record from 15five",
+  "fullName" : "post data to 15five server.should delete the record from 15five",
+  "historyId" : "ea12941425ef1ca6af4bb680028349a4",
+  "time" : {
+    "start" : 1630088588333,
+    "stop" : 1630088589047,
+    "duration" : 714
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "post data to 15five server"
+  }, {
+    "name" : "testClass",
+    "value" : "post data to 15five server"
+  }, {
+    "name" : "testMethod",
+    "value" : "should delete the record from 15five"
+  }, {
+    "name" : "package",
+    "value" : "post data to 15five server"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fba454427d205bb6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "f7337b73bd4e3cd8",
+  "name" : "verify performance tab",
+  "fullName" : "Performance Tab.verify performance tab",
+  "historyId" : "ebfc7736e09f672f16ea8bd759a5fe96",
+  "time" : {
+    "start" : 1630088163999,
+    "stop" : 1630088200164,
+    "duration" : 36165
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Performance Tab"
+  }, {
+    "name" : "testClass",
+    "value" : "Performance Tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "verify performance tab"
+  }, {
+    "name" : "package",
+    "value" : "Performance Tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7337b73bd4e3cd8.json",
+  "parameterValues" : [ ]
+}

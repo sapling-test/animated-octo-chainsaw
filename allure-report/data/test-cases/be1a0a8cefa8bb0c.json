@@ -1,0 +1,52 @@
+{
+  "uid" : "be1a0a8cefa8bb0c",
+  "name" : "should verify and validate email templates",
+  "fullName" : "verify Email module.should verify and validate email templates",
+  "historyId" : "64a3c7fcf5eb07b1934d751d72f15d0f",
+  "time" : {
+    "start" : 1630083714376,
+    "stop" : 1630084477573,
+    "duration" : 763197
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expected 'kalavathi.jeeru+saattitsa@trysapling.com' to equal 'saplingleepstipl.saplingleepstipl@shr-test.com'",
+  "statusTrace" : "AssertionError: expected 'kalavathi.jeeru+saattitsa@trysapling.com' to equal 'saplingleepstipl.saplingleepstipl@shr-test.com'\n                    at Context.eval (https://quality.saplingapp.io/__cypress/tests?p=cypress\\integration\\a4emailsModule.js:1527:35)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "verify Email module"
+  }, {
+    "name" : "testClass",
+    "value" : "verify Email module"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify and validate email templates"
+  }, {
+    "name" : "package",
+    "value" : "verify Email module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "be1a0a8cefa8bb0c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "d8b2ce150d1f8374",
+  "name" : "access home page",
+  "fullName" : "verify onboarding a user.access home page",
+  "historyId" : "915fcfa1252c95a476c7b0797b55bd",
+  "time" : {
+    "start" : 1630082763297,
+    "stop" : 1630083334002,
+    "duration" : 570705
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "verify onboarding a user"
+  }, {
+    "name" : "testClass",
+    "value" : "verify onboarding a user"
+  }, {
+    "name" : "testMethod",
+    "value" : "access home page"
+  }, {
+    "name" : "package",
+    "value" : "verify onboarding a user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d8b2ce150d1f8374.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "96fd03784c98acdd",
+  "name" : "Verifying algolia search functionality",
+  "fullName" : "Algolia Search.Verifying algolia search functionality",
+  "historyId" : "5c84815e4043b34dad3907b979fda6af",
+  "time" : {
+    "start" : 1630087713624,
+    "stop" : 1630087790016,
+    "duration" : 76392
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Algolia Search"
+  }, {
+    "name" : "testClass",
+    "value" : "Algolia Search"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying algolia search functionality"
+  }, {
+    "name" : "package",
+    "value" : "Algolia Search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96fd03784c98acdd.json",
+  "parameterValues" : [ ]
+}

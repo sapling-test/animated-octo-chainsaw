@@ -1,0 +1,46 @@
+{
+  "uid" : "b761d31ad42892ff",
+  "name" : "verifying the functionalities of profile setup page",
+  "fullName" : "profileSetup.verifying the functionalities of profile setup page",
+  "historyId" : "b8844bd542b58ade37cde4ff6bbabfa0",
+  "time" : {
+    "start" : 1630084546989,
+    "stop" : 1630085047591,
+    "duration" : 500602
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "profileSetup"
+  }, {
+    "name" : "testClass",
+    "value" : "profileSetup"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifying the functionalities of profile setup page"
+  }, {
+    "name" : "package",
+    "value" : "profileSetup"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b761d31ad42892ff.json",
+  "parameterValues" : [ ]
+}

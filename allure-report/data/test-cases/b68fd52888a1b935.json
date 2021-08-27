@@ -1,0 +1,44 @@
+{
+  "uid" : "b68fd52888a1b935",
+  "name" : "Verifying the masked fields",
+  "fullName" : "Validating masked field validations.Verifying the masked fields",
+  "historyId" : "2fb4d716a2aedb5429374d9bb5f603dc",
+  "time" : {
+    "start" : 1630061332562,
+    "stop" : 1630062340222,
+    "duration" : 1007660
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Validating masked field validations"
+  }, {
+    "name" : "testClass",
+    "value" : "Validating masked field validations"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying the masked fields"
+  }, {
+    "name" : "package",
+    "value" : "Validating masked field validations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b68fd52888a1b935.json",
+  "parameterValues" : [ ]
+}

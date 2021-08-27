@@ -1,0 +1,77 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Timed out retrying after 60000ms: Expected to find element: `.md-menu-toolbar`, but never found it.",
+      "children" : [ {
+        "name" : "Validating people page functionalities",
+        "uid" : "e0ab537462602b8d",
+        "parentUid" : "e9fe3b2190e167c8482726b18dc61c66",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630081752413,
+          "stop" : 1630082506621,
+          "duration" : 754208
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e9fe3b2190e167c8482726b18dc61c66"
+    }, {
+      "name" : "Timed out retrying after 60000ms: Expected to find element: `#pending-hire-button`, but never found it.",
+      "children" : [ {
+        "name" : "Verifying pending Hires functionality",
+        "uid" : "a623a5c971ccb124",
+        "parentUid" : "c43c125bbefe1d37b6380796d5f4a762",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630082574040,
+          "stop" : 1630082748326,
+          "duration" : 174286
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c43c125bbefe1d37b6380796d5f4a762"
+    }, {
+      "name" : "expected 'kalavathi.jeeru+saattitsa@trysapling.com' to equal 'saplingleepstipl.saplingleepstipl@shr-test.com'",
+      "children" : [ {
+        "name" : "should verify and validate email templates",
+        "uid" : "be1a0a8cefa8bb0c",
+        "parentUid" : "1b743a00af0ae93d3d67e350c8e16f79",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630083714376,
+          "stop" : 1630084477573,
+          "duration" : 763197
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1b743a00af0ae93d3d67e350c8e16f79"
+    }, {
+      "name" : "Timed out retrying after 60000ms: Expected to find element: `.documents-actions button .icon-eye`, but never found it.",
+      "children" : [ {
+        "name" : "toolbardocuments",
+        "uid" : "4c99f4e5f04e47b6",
+        "parentUid" : "737d213e9beefdb6db67c17abcb7d9df",
+        "status" : "failed",
+        "time" : {
+          "start" : 1630085632996,
+          "stop" : 1630087327001,
+          "duration" : 1694005
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "737d213e9beefdb6db67c17abcb7d9df"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

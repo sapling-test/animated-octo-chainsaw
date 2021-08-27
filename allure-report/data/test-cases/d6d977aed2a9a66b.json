@@ -1,0 +1,46 @@
+{
+  "uid" : "d6d977aed2a9a66b",
+  "name" : "Verifying pending Hires functionality",
+  "fullName" : "pending Hires .Verifying pending Hires functionality",
+  "historyId" : "c513b9d19167d5544bb1769f9d9216ca",
+  "time" : {
+    "start" : 1630066691686,
+    "stop" : 1630067139400,
+    "duration" : 447714
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Timed out retrying after 60000ms: Expected to find element: `tbody > :nth-child(1) > :nth-child(9)`, but never found it.",
+  "statusTrace" : "AssertionError: Timed out retrying after 60000ms: Expected to find element: `tbody > :nth-child(1) > :nth-child(9)`, but never found it.\n                    at Context.eval (https://quality.saplingapp.io/__cypress/tests?p=cypress\\integration\\a14pendinghires.js:2861:12)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "pending Hires "
+  }, {
+    "name" : "testClass",
+    "value" : "pending Hires "
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying pending Hires functionality"
+  }, {
+    "name" : "package",
+    "value" : "pending Hires "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d6d977aed2a9a66b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "379bba3e77c23ba4",
+  "name" : "profile tab functionality",
+  "fullName" : "Profile tab.profile tab functionality",
+  "historyId" : "d5b029f7865479fab8e4e7115351aa02",
+  "time" : {
+    "start" : 1630088207165,
+    "stop" : 1630088207205,
+    "duration" : 40
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Profile tab"
+  }, {
+    "name" : "testClass",
+    "value" : "Profile tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "profile tab functionality"
+  }, {
+    "name" : "package",
+    "value" : "Profile tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "379bba3e77c23ba4.json",
+  "parameterValues" : [ ]
+}

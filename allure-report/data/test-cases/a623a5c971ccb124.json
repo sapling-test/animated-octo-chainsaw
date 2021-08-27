@@ -1,0 +1,70 @@
+{
+  "uid" : "a623a5c971ccb124",
+  "name" : "Verifying pending Hires functionality",
+  "fullName" : "pending Hires .Verifying pending Hires functionality",
+  "historyId" : "c513b9d19167d5544bb1769f9d9216ca",
+  "time" : {
+    "start" : 1630082574040,
+    "stop" : 1630082748326,
+    "duration" : 174286
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Timed out retrying after 60000ms: Expected to find element: `#pending-hire-button`, but never found it.",
+  "statusTrace" : "AssertionError: Timed out retrying after 60000ms: Expected to find element: `#pending-hire-button`, but never found it.\n                    at navigateToPendingHire (https://quality.saplingapp.io/__cypress/tests?p=cypress\\integration\\a14pendinghires.js:2589:46)\n                    at Context.eval (https://quality.saplingapp.io/__cypress/tests?p=cypress\\integration\\a14pendinghires.js:637:53)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "pending Hires "
+  }, {
+    "name" : "testClass",
+    "value" : "pending Hires "
+  }, {
+    "name" : "testMethod",
+    "value" : "Verifying pending Hires functionality"
+  }, {
+    "name" : "package",
+    "value" : "pending Hires "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d6d977aed2a9a66b",
+      "status" : "failed",
+      "statusDetails" : "Timed out retrying after 60000ms: Expected to find element: `tbody > :nth-child(1) > :nth-child(9)`, but never found it.",
+      "time" : {
+        "start" : 1630066691686,
+        "stop" : 1630067139400,
+        "duration" : 447714
+      }
+    }, {
+      "uid" : "7e7f19715fd88c23",
+      "status" : "failed",
+      "statusDetails" : "Timed out retrying after 60000ms: Expected to find element: `tbody > :nth-child(1) > :nth-child(9)`, but never found it.",
+      "time" : {
+        "start" : 1630003742767,
+        "stop" : 1630005566033,
+        "duration" : 1823266
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "a623a5c971ccb124.json",
+  "parameterValues" : [ ]
+}

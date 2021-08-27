@@ -1,0 +1,261 @@
+[ {
+  "uid" : "4c99f4e5f04e47b6",
+  "name" : "toolbardocuments",
+  "time" : {
+    "start" : 1630085632996,
+    "stop" : 1630087327001,
+    "duration" : 1694005
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b90297b599d2120",
+  "name" : "should validate tasks",
+  "time" : {
+    "start" : 1630085096234,
+    "stop" : 1630085587976,
+    "duration" : 491742
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e3ae24104ecaaaf",
+  "name" : "Updates",
+  "time" : {
+    "start" : 1630088281797,
+    "stop" : 1630088463364,
+    "duration" : 181567
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7337b73bd4e3cd8",
+  "name" : "verify performance tab",
+  "time" : {
+    "start" : 1630088163999,
+    "stop" : 1630088200164,
+    "duration" : 36165
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c290be43f32253bd",
+  "name" : "Verify functionalities of time off tab",
+  "time" : {
+    "start" : 1630088210918,
+    "stop" : 1630088273813,
+    "duration" : 62895
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9489d186318f17fd",
+  "name" : "verify people page functionality for Nick persona",
+  "time" : {
+    "start" : 1630088075370,
+    "stop" : 1630088155396,
+    "duration" : 80026
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4048bdfaab6f6b1",
+  "name" : "Verifying profile image functions",
+  "time" : {
+    "start" : 1630088482740,
+    "stop" : 1630088570612,
+    "duration" : 87872
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81cc9164e688463b",
+  "name" : "Creating new employee role and adding a member to created role",
+  "time" : {
+    "start" : 1630087710023,
+    "stop" : 1630087710062,
+    "duration" : 39
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6fd4fdb046843e9",
+  "name" : "calendar",
+  "time" : {
+    "start" : 1630087800818,
+    "stop" : 1630087959641,
+    "duration" : 158823
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0ab537462602b8d",
+  "name" : "Validating people page functionalities",
+  "time" : {
+    "start" : 1630081752413,
+    "stop" : 1630082506621,
+    "duration" : 754208
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "215f4fa313f889e5",
+  "name" : "should complete off boarding user user",
+  "time" : {
+    "start" : 1630083384779,
+    "stop" : 1630083684972,
+    "duration" : 300193
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96fd03784c98acdd",
+  "name" : "Verifying algolia search functionality",
+  "time" : {
+    "start" : 1630087713624,
+    "stop" : 1630087790016,
+    "duration" : 76392
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8b2ce150d1f8374",
+  "name" : "access home page",
+  "time" : {
+    "start" : 1630082763297,
+    "stop" : 1630083334002,
+    "duration" : 570705
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b761d31ad42892ff",
+  "name" : "verifying the functionalities of profile setup page",
+  "time" : {
+    "start" : 1630084546989,
+    "stop" : 1630085047591,
+    "duration" : 500602
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c42347657d809b1",
+  "name" : "Should update the user in 15five server",
+  "time" : {
+    "start" : 1630088587565,
+    "stop" : 1630088588330,
+    "duration" : 765
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99c669a605a0088",
+  "name" : "Verifying the functionality of workflows",
+  "time" : {
+    "start" : 1630087455995,
+    "stop" : 1630087686782,
+    "duration" : 230787
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df81b082d33934af",
+  "name" : "Verify functionality of reports module",
+  "time" : {
+    "start" : 1630080476866,
+    "stop" : 1630081639409,
+    "duration" : 1162543
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6983ff401df0ffd",
+  "name" : "Verifying the masked fields",
+  "time" : {
+    "start" : 1630077169911,
+    "stop" : 1630078164301,
+    "duration" : 994390
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f30622385998a13d",
+  "name" : "should post the data without any issues",
+  "time" : {
+    "start" : 1630088580959,
+    "stop" : 1630088587040,
+    "duration" : 6081
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "379bba3e77c23ba4",
+  "name" : "profile tab functionality",
+  "time" : {
+    "start" : 1630088207165,
+    "stop" : 1630088207205,
+    "duration" : 40
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1acfcddd8c8726b3",
+  "name" : " verify dashboard functionality",
+  "time" : {
+    "start" : 1630078244588,
+    "stop" : 1630080305162,
+    "duration" : 2060574
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fba454427d205bb6",
+  "name" : "should delete the record from 15five",
+  "time" : {
+    "start" : 1630088588333,
+    "stop" : 1630088589047,
+    "duration" : 714
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a623a5c971ccb124",
+  "name" : "Verifying pending Hires functionality",
+  "time" : {
+    "start" : 1630082574040,
+    "stop" : 1630082748326,
+    "duration" : 174286
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "be1a0a8cefa8bb0c",
+  "name" : "should verify and validate email templates",
+  "time" : {
+    "start" : 1630083714376,
+    "stop" : 1630084477573,
+    "duration" : 763197
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "607386c6132a171b",
+  "name" : "jobdetails",
+  "time" : {
+    "start" : 1630087976404,
+    "stop" : 1630088063608,
+    "duration" : 87204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f404a7883f5d9557",
+  "name" : "should get the user details using ID",
+  "time" : {
+    "start" : 1630088587048,
+    "stop" : 1630088587554,
+    "duration" : 506
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

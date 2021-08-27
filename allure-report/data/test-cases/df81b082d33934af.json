@@ -1,0 +1,70 @@
+{
+  "uid" : "df81b082d33934af",
+  "name" : "Verify functionality of reports module",
+  "fullName" : "validating Reports module.Verify functionality of reports module",
+  "historyId" : "84740d9e2193beceb9b39015a7bba3b4",
+  "time" : {
+    "start" : 1630080476866,
+    "stop" : 1630081639409,
+    "duration" : 1162543
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "validating Reports module"
+  }, {
+    "name" : "testClass",
+    "value" : "validating Reports module"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify functionality of reports module"
+  }, {
+    "name" : "package",
+    "value" : "validating Reports module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "771e780d0cd0dc97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630070995573,
+        "stop" : 1630072152812,
+        "duration" : 1157239
+      }
+    }, {
+      "uid" : "445e1bc15611b179",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630064617071,
+        "stop" : 1630065777824,
+        "duration" : 1160753
+      }
+    }, {
+      "uid" : "8f8cda9120960f56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630001522890,
+        "stop" : 1630002699657,
+        "duration" : 1176767
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df81b082d33934af.json",
+  "parameterValues" : [ ]
+}

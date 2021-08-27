@@ -1,0 +1,46 @@
+{
+  "uid" : "607386c6132a171b",
+  "name" : "jobdetails",
+  "fullName" : "Verify jobdetails functionality on tools page.jobdetails",
+  "historyId" : "956317bb8e71f65128ca28acd2a762f7",
+  "time" : {
+    "start" : 1630087976404,
+    "stop" : 1630088063608,
+    "duration" : 87204
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Verify jobdetails functionality on tools page"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify jobdetails functionality on tools page"
+  }, {
+    "name" : "testMethod",
+    "value" : "jobdetails"
+  }, {
+    "name" : "package",
+    "value" : "Verify jobdetails functionality on tools page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "607386c6132a171b.json",
+  "parameterValues" : [ ]
+}
